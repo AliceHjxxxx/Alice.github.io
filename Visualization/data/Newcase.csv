@@ -1,0 +1,238 @@
+Country,WHORegion,Last24hours,Last7days,Total,Rate
+United States of America,Americas,100455,666617,47802459,14.44%
+India,South-East Asia,10549,65808,34555431,2.50%
+Brazil,Americas,12930,65451,22043112,10.37%
+The United Kingdom,Europe,46654,299581,10021501,14.76%
+Russian Federation,Europe,34690,245811,9502879,6.51%
+Turkey,Europe,24467,173419,8676639,10.29%
+France,Europe,33320,162391,7285128,11.20%
+Iran (Islamic Republic of),Eastern Mediterranean,0,29047,6092822,7.25%
+Germany,Europe,76414,401879,5650170,6.79%
+Argentina,Americas,2234,9533,5319867,11.77%
+Spain,Europe,5541,43515,5121100,10.82%
+Colombia,Americas,2520,16709,5055253,9.94%
+Italy,Europe,13756,74454,4968341,8.33%
+Indonesia,South-East Asia,453,2563,4255268,1.56%
+Mexico,Americas,4287,12682,3872263,3.00%
+Poland,Europe,26735,157810,3461066,9.12%
+Ukraine,Europe,15936,96282,3400340,7.78%
+South Africa,Africa,2465,25001,2952500,4.98%
+Philippines,Western Pacific,975,7865,2829618,2.58%
+Malaysia,Western Pacific,6144,39446,2608979,8.06%
+Netherlands,Europe,22274,155523,2534137,14.56%
+Peru,Americas,1556,10010,2228212,6.76%
+Thailand,South-East Asia,6559,43906,2094886,3.00%
+Czechia,Europe,27717,131731,2089857,19.54%
+Iraq,Eastern Mediterranean,743,5187,2077665,5.17%
+Canada,Americas,2627,18123,1774946,4.70%
+Romania,Europe,2104,16708,1771887,9.17%
+Chile,Americas,2670,16582,1751769,9.16%
+Japan,Western Pacific,118,760,1726823,1.37%
+Belgium,Europe,7,87601,1679861,14.58%
+Bangladesh,South-East Asia,0,1474,1575185,0.96%
+Israel,Europe,524,3589,1341211,15.50%
+Pakistan,Eastern Mediterranean,363,2401,1283223,0.58%
+Serbia,Europe,2677,18927,1244169,17.96%
+Sweden,Europe,2047,9101,1196688,11.59%
+Viet Nam,Western Pacific,12450,102759,1168228,1.20%
+Portugal,Europe,3150,18161,1133241,11.01%
+Austria,Europe,14330,96444,1107425,12.44%
+Hungary,Europe,11871,70400,1068888,10.94%
+Kazakhstan,Europe,1063,7244,1050700,5.60%
+Switzerland,Europe,7,34252,974324,11.26%
+Cuba,Americas,240,1829,961698,8.49%
+Morocco,Eastern Mediterranean,0,630,949263,2.57%
+Jordan,Eastern Mediterranean,0,22518,928256,9.10%
+Greece,Europe,6561,47105,908222,8.47%
+Georgia,Europe,4534,26677,831248,20.84%
+Nepal,South-East Asia,242,1949,820527,2.82%
+United Arab Emirates,Eastern Mediterranean,77,506,741720,7.50%
+Tunisia,Eastern Mediterranean,0,714,716702,6.06%
+Bulgaria,Europe,2370,16559,684922,9.85%
+Lebanon,Eastern Mediterranean,0,6077,662269,9.70%
+Slovakia,Europe,9331,57992,651234,11.93%
+Belarus,Europe,1674,12012,646743,6.84%
+Guatemala,Americas,829,5180,616554,3.44%
+Croatia,Europe,6246,30745,589015,14.51%
+Azerbaijan,Europe,1880,12418,580507,5.73%
+Costa Rica,Americas,177,1200,566296,11.12%
+Sri Lanka,South-East Asia,0,5141,560345,2.62%
+Saudi Arabia,Eastern Mediterranean,28,241,549618,1.58%
+Ireland,Europe,4763,31218,546909,11.02%
+Bolivia (Plurinational State of),Americas,1203,6325,532631,4.56%
+Ecuador,Americas,0,1649,524432,2.97%
+Myanmar,South-East Asia,0,3443,520213,0.96%
+Panama,Americas,268,1445,476611,11.05%
+Denmark,Europe,4390,28006,466817,8.02%
+Lithuania,Europe,2131,12294,464562,16.63%
+Paraguay,Americas,64,344,462453,6.48%
+"occupied Palestinian territory, including east Jerusalem",Eastern Mediterranean,266,1529,459479,9.01%
+Republic of Korea,Western Pacific,3901,23802,432901,0.84%
+Venezuela (Bolivarian Republic of),Americas,619,5189,427418,1.50%
+Kuwait,Eastern Mediterranean,0,108,413198,9.68%
+Slovenia,Europe,2668,19597,411301,19.62%
+Dominican Republic,Americas,759,5740,405513,3.74%
+Uruguay,Americas,223,1293,398436,11.47%
+Mongolia,Western Pacific,586,3788,380325,11.60%
+Honduras,Americas,123,419,377712,3.81%
+Ethiopia,Africa,174,1219,370886,0.32%
+Libya,Eastern Mediterranean,732,3398,370187,5.39%
+Republic of Moldova,Europe,855,4668,361116,8.95%
+Egypt,Eastern Mediterranean,0,5305,353024,0.34%
+Armenia,Europe,675,4292,337005,11.37%
+Oman,Eastern Mediterranean,5,53,304519,5.96%
+Bahrain,Eastern Mediterranean,0,177,277481,16.31%
+Bosnia and Herzegovina,Europe,740,4212,272063,8.29%
+Singapore,Western Pacific,1275,11932,258785,4.42%
+Kenya,Africa,46,321,254862,0.47%
+Norway,Europe,2399,14246,251382,4.68%
+Latvia,Europe,1095,5571,250132,13.11%
+Qatar,Eastern Mediterranean,155,1001,242673,8.42%
+Estonia,Europe,636,4433,220514,16.59%
+Nigeria,Africa,65,419,213883,0.10%
+North Macedonia,Europe,473,2842,213779,10.26%
+Zambia,Africa,13,76,210112,1.14%
+Algeria,Africa,161,1092,209624,0.48%
+Australia,Western Pacific,1555,9531,203650,0.80%
+Albania,Europe,516,3271,198292,6.89%
+Botswana,Africa,257,464,194909,8.29%
+Uzbekistan,Europe,206,1531,192381,0.57%
+Puerto Rico,Americas,137,813,187718,6.56%
+Kyrgyzstan,Europe,74,413,183140,2.81%
+Finland,Europe,1406,6524,182284,3.30%
+Kosovo[1],Europe,12,64,161006,8.97%
+Afghanistan,Eastern Mediterranean,112,358,157144,0.40%
+Montenegro,Europe,307,2253,156003,24.84%
+Mozambique,Africa,9,40,151512,0.48%
+Zimbabwe,Africa,27,181,133774,0.90%
+Cyprus,Europe,489,2793,131951,14.86%
+Ghana,Africa,0,193,130920,0.42%
+Namibia,Africa,7,59,129133,5.08%
+China,Western Pacific,29,226,127631,0.01%
+Uganda,Africa,76,285,127413,0.28%
+Cambodia,Western Pacific,32,268,120009,0.72%
+El Salvador,Americas,0,0,118041,1.82%
+Cameroon,Africa,0,604,106794,0.40%
+Rwanda,Africa,26,113,100303,0.77%
+Maldives,South-East Asia,0,658,91122,16.86%
+Jamaica,Americas,56,494,90961,3.07%
+Luxembourg,Europe,421,2113,87773,14.02%
+Senegal,Africa,2,13,73975,0.44%
+Trinidad and Tobago,Americas,689,3799,67664,4.83%
+Lao People's Democratic Republic,Western Pacific,1504,8524,67322,0.93%
+Angola,Africa,25,120,65105,0.20%
+Malawi,Africa,5,14,61872,0.32%
+Côte d’Ivoire,Africa,5,112,61665,0.23%
+Réunion,Africa,0,1875,59048,6.60%
+Democratic Republic of the Congo,Africa,55,235,58115,0.06%
+Guadeloupe,Americas,0,226,55080,13.77%
+Fiji,Western Pacific,0,31,52474,5.85%
+Suriname,Americas,48,327,50629,8.63%
+Syrian Arab Republic,Eastern Mediterranean,0,720,47558,0.27%
+Eswatini,Africa,8,29,46514,4.01%
+French Guiana,Americas,39,219,45802,15.33%
+French Polynesia,Western Pacific,0,0,45609,16.24%
+Martinique,Americas,79,581,45010,11.99%
+Madagascar,Africa,0,400,44072,0.16%
+Sudan,Eastern Mediterranean,0,314,42056,0.10%
+Mauritius,Africa,0,5803,41731,3.28%
+Malta,Europe,83,562,39013,7.58%
+Mauritania,Africa,69,510,38950,0.84%
+Cabo Verde,Africa,2,34,38347,6.90%
+Guyana,Americas,79,525,37524,4.77%
+Gabon,Africa,0,280,37223,1.67%
+Papua New Guinea,Western Pacific,0,824,34846,0.39%
+Guinea,Africa,0,36,30751,0.23%
+Belize,Americas,106,581,29967,7.54%
+United Republic of Tanzania,Africa,0,34,26261,0.04%
+Togo,Africa,8,47,26232,0.32%
+Haiti,Americas,0,90,24974,0.22%
+Benin,Africa,0,4,24850,0.20%
+Barbados,Americas,198,1509,24432,8.50%
+Seychelles,Africa,0,302,23197,23.59%
+Somalia,Eastern Mediterranean,0,132,22969,0.14%
+Bahamas,Americas,0,67,22696,5.77%
+Lesotho,Africa,0,16,21735,1.01%
+Mayotte,Africa,24,78,20938,7.67%
+Burundi,Africa,26,54,20386,0.17%
+Timor-Leste,South-East Asia,1,5,19821,1.50%
+Congo,Africa,0,120,18837,0.34%
+Tajikistan,Europe,0,4,17493,0.18%
+Iceland,Europe,152,1010,17446,4.79%
+Curaçao,Americas,14,103,17362,10.58%
+Mali,Africa,48,348,17145,0.08%
+Andorra,Europe,140,531,16566,21.44%
+Aruba,Americas,16,113,16246,15.22%
+Burkina Faso,Africa,0,0,15514,0.07%
+Guam,Western Pacific,7,51,15109,8.95%
+Brunei Darussalam,Western Pacific,69,441,14840,3.39%
+Equatorial Guinea,Africa,0,28,13547,0.97%
+Jersey,Europe,146,950,13518,12.54%
+Djibouti,Eastern Mediterranean,0,3,13503,1.37%
+Nicaragua,Americas,0,88,13330,0.20%
+Saint Lucia,Americas,6,68,12927,7.04%
+South Sudan,Africa,7,79,12717,0.11%
+New Caledonia,Western Pacific,41,234,12033,4.21%
+Central African Republic,Africa,0,42,11708,0.24%
+Isle of Man,Europe,97,439,10894,12.81%
+New Zealand,Western Pacific,177,1308,10598,0.22%
+Gambia,Africa,0,3,9989,0.41%
+Yemen,Eastern Mediterranean,5,27,9977,0.03%
+United States Virgin Islands,Americas,10,63,7490,7.17%
+Eritrea,Africa,19,157,7269,0.20%
+Gibraltar,Europe,43,312,7092,21.05%
+Niger,Africa,19,148,6921,0.03%
+Cayman Islands,Americas,176,1303,6459,9.83%
+Guinea-Bissau,Africa,0,4,6438,0.33%
+Sierra Leone,Africa,1,1,6401,0.08%
+San Marino,Europe,22,170,5930,17.47%
+Grenada,Americas,2,15,5880,5.23%
+Liberia,Africa,0,1,5819,0.12%
+Dominica,Americas,134,335,5776,8.02%
+Bermuda,Americas,0,10,5724,9.19%
+Saint Vincent and the Grenadines,Americas,0,78,5446,4.91%
+Chad,Africa,0,0,5107,0.03%
+Sint Maarten,Americas,5,22,4570,10.66%
+Comoros,Africa,16,45,4482,0.52%
+Liechtenstein,Europe,0,281,4477,11.55%
+Antigua and Barbuda,Americas,1,10,4139,4.23%
+Saint Martin,Americas,0,20,4013,10.38%
+Sao Tome and Principe,Africa,0,0,3731,1.70%
+Monaco,Europe,27,133,3669,9.35%
+Guernsey,Europe,155,648,3598,5.58%
+Faroe Islands,Europe,39,286,3376,6.91%
+Turks and Caicos Islands,Americas,4,32,3092,7.99%
+Saint Kitts and Nevis,Americas,2,16,2776,5.22%
+British Virgin Islands,Americas,0,8,2773,9.17%
+Bonaire,Americas,37,148,2760,13.20%
+Bhutan,South-East Asia,1,2,2634,0.34%
+Saint Barthélemy,Americas,0,5,1666,16.85%
+Anguilla,Americas,0,159,1334,8.89%
+Greenland,Europe,0,195,1311,2.31%
+Other,Other,0,0,764,0.00%
+Northern Mariana Islands (Commonwealth of the),Western Pacific,45,218,649,1.13%
+Wallis and Futuna,Western Pacific,0,0,454,4.04%
+Falkland Islands (Malvinas),Americas,0,0,79,2.27%
+Saint Pierre and Miquelon,Americas,2,27,61,1.05%
+Montserrat,Americas,0,0,44,0.88%
+Sint Eustatius,Americas,0,1,31,0.99%
+Holy See,Europe,0,0,26,3.21%
+Solomon Islands,Western Pacific,0,0,20,0.00%
+Saba,Americas,0,1,12,0.62%
+Palau,Western Pacific,0,0,8,0.04%
+American Samoa,Western Pacific,0,0,5,0.01%
+Vanuatu,Western Pacific,0,0,5,0.00%
+Marshall Islands,Western Pacific,0,0,4,0.01%
+Samoa,Western Pacific,0,0,1,0.00%
+Tonga,Western Pacific,0,0,1,0.00%
+Cook Islands,Western Pacific,0,0,0,0.00%
+Democratic People's Republic of Korea,South-East Asia,0,0,0,0.00%
+Kiribati,Western Pacific,0,0,0,0.00%
+Micronesia (Federated States of),Western Pacific,0,0,0,0.00%
+Nauru,Western Pacific,0,0,0,0.00%
+Niue,Western Pacific,0,0,0,0.00%
+Pitcairn Islands,Western Pacific,0,0,0,0.00%
+Saint Helena,Africa,0,0,0,0.00%
+Tokelau,Western Pacific,0,0,0,0.00%
+Turkmenistan,Europe,0,0,0,0.00%
+Tuvalu,Western Pacific,0,0,0,0.00%
