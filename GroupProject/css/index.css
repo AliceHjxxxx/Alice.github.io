@@ -1,0 +1,181 @@
+    *,
+    body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        /* overflow-x: hidden; */
+    }
+    
+    @media screen and (max-width: 1024px) {
+        html {
+            font-size: 42.66px !important;
+        }
+    }
+    
+    @media screen and (min-width: 1920px) {
+        html {
+            font-size: 80px !important;
+        }
+    }
+    
+    body {
+        background-image: url('../image/1.jpeg');
+    }
+    
+    .header {
+        height: 1.875rem;
+        font-style: italic;
+        font-size: .25rem;
+        margin-bottom: .125rem;
+    }
+    
+    .footer {
+        font-size: .15rem;
+        margin-top: .125rem;
+        /* color: #e3d0cm; */
+    }
+    
+    .footer,
+    .header {
+        min-width: 1024px;
+        max-width: 1920px;
+        /* width: 100%; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-position: center;
+    }
+    
+    .main {
+        width: 100%;
+        min-width: 1024px;
+        max-width: 1920px;
+        min-height: 700px;
+        /* display: flex; */
+    }
+    
+    .container {
+        min-width: 12.8rem;
+        max-width: 24rem;
+    }
+    
+    .row-wrap {
+        display: flex;
+        justify-content: space-between;
+        margin-top: .125rem;
+        width: 100%;
+        overflow: hidden;
+    }
+    
+    .rose {
+        height: 6.25rem;
+        width: 6.25rem;
+    }
+    
+    a {
+        padding: .01rem;
+        font-size: .2rem;
+        margin: -0.0375rem 0 0 0.2625rem;
+        border-radius: 0.0375rem;
+        color: #0bace6;
+        text-decoration-line: none;
+    }
+    
+    .caption {
+        margin-top: .125rem;
+        display: flex;
+        line-height: 1;
+    }
+    
+    a.active {
+        background-color: #efa18d;
+        color: #fff;
+    }
+    
+    .col {
+        box-shadow: .025rem .025rem .025rem .0125rem rgba(0, 0, 0, 0.1);
+        background-color: rgba(255, 255, 255, 0.4);
+        padding: .1875rem;
+    }
+    
+    .geo {
+        width: 10.7rem;
+        height: 6.25rem
+    }
+    
+    .heatmap {
+        /* box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.1); */
+        /* background-color: rgba(255, 255, 255, 0.4); */
+        width: 6.25rem;
+        height: 3.125rem;
+    }
+    
+    .line {
+        margin-top: .125rem;
+        width: 6.25rem;
+        height: 3.125rem;
+    }
+    /* .line-radar,
+    .rosechart {
+        flex: 2;
+        overflow: hidden;
+    }
+    
+    .geo-wrap {
+        flex: 3;
+        overflow: hidden;
+    }
+     */
+    
+    .scatter {
+        height: 5rem;
+        width: 10.625rem;
+    }
+    
+    .pie-scatter {
+        display: flex;
+        /* flex: 1; */
+        overflow: hidden;
+        width: 67.5%;
+        /* height: 350px;
+    width: 650px; */
+    }
+    
+    .pie {
+        height: 5rem;
+        width: 5rem;
+        top: .325rem;
+    }
+    
+    .sunburst-wrap,
+    .bubble-wrap {
+        padding: .25rem;
+    }
+    
+    .sunburst-wrap .title {
+        margin-bottom: .25rem;
+        font-size: .2125rem
+    }
+    
+    .sunburst {
+        padding: auto;
+        /* top: .25rem; */
+        height: 5.5rem;
+        width: 6rem;
+    }
+    
+    .bar {
+        height: 5rem;
+        width: 7.5rem;
+    }
+    
+    .bubble {
+        height: 6rem;
+        width: 11rem;
+        cursor: pointer ! important;
+    }
+    
+    .rader {
+        height: 5.5rem;
+        width: 5.5rem;
+    }
